@@ -51,7 +51,7 @@ way for the fashion-forward adventurer to maintain the functionality and
 defense of their favorite armor and simultaneously show their fanciest
 outfit over the top. Players that care about fashion can satisfy their
 souls by going into the MCM menu and creating outfits out of their
-favorite armor sets. This can only be done on the armor taht the player
+favorite armor sets. This can only be done on the armor that the player
 is currently wearing but multiple can be stored and switched to at will.
 
 Also new in 1.2, the numerous sets of armor that can be found, or
