@@ -13,10 +13,6 @@ as fast and painless as possible.
 There are a few things you will need to make sure to have before you can
 download and play Somnium. 
 
-You can delete the contents of the `downloads` and Enderal SE folders
-after Somnium is fully installed, however you will need to redownload
-all the mods and Enderal when you wish to update the list.
-
 If you are having issues with any step of the installation, please join
 our [Discord Community](https://discord.com/invite/nAQWr4VmG6), where we
 will be able to diagnose and help you with your problems.
@@ -43,6 +39,10 @@ Somnium also natively suppports most resolution aspect ratios, such as
 
 To see which of your drives are SSD\'s
 and which are HDD\'s, press Win+R and type `dfrgui`.
+
+You can delete the contents of the Somnium download and Enderal SE folders
+after Somnium is fully installed, however you will need to redownload
+all the mods and Enderal when you wish to update the list.
 
  - **> 190 GB** space for the modlist installation (**SSD**)
  - **> 64 GB** space for Somnium downloads (**SSD/HDD**)
