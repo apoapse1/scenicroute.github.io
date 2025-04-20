@@ -141,6 +141,8 @@ will appear asking you to choose the appropriate in-game brightness by
 following a specific set of instructions. **DO NOT** skip this step or back 
 out of it, it is essential for the optimum Somnium experience.
 
+*If the launcher UI is completely unusable, refer to [Manual Workarounds](#Manual)
+
 **4.3.** Once this process has completed, paths to `Gameplay Options` and
 `Graphics Options` will appear that will allow you to further customize
 aspects of your gameplay experience.
@@ -240,6 +242,10 @@ folder where you installed Wabbajack.
     mod author has hidden the mod so it's unretrievable. The only solutions
     are to have a premium NexusMods account, or for the authors to
     replace the mod and recompile a new Wabbajack.
+
+## Manual Workarounds {#Manual}
+If the launcher is not working for you or buggy, you can run installation manually:
+- Install: launcher-dat/Install.bat
 
 ### Personalizing the Game
 
