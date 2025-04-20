@@ -18,7 +18,7 @@ Link](https://www.patreon.com/scenicroutegames?fan_landing=true)
 
 ## Preamble
 
-![Banner](https://cdn.discordapp.com/attachments/819785065700655104/932776024398241802/Start_Screen.png)
+![Banner](https://cdn.discordapp.com/attachments/879129485809713163/889302559657967616/Start_Screen.png?ex=680635cc&is=6804e44c&hm=8bfb551bfdb11c21c2281b44a0d3832a95172e74e258b45c1a9878c70bd5b78b&)
 
 <div align="center"><b>With big thanks to the Somnium design team at Scenic Route Games. And a special thanks and acknowledgement to: Ixion XVII for all of his Enderal Gameplay Overhaul (EGO) mods and helpful advice, JDsmith for Enderal - My Way and providing us with the bones of Somnium. </b></div>
 <br/>
@@ -47,7 +47,7 @@ comprehensive adaption of Tamriel\'s northern province into a harsh,
 survival experience, Somnium seeks instead to provide players with an
 overhauled and new take on the world of Enderal and Vyn.
 
-Somnium is a thrilling experience that blends elements of horror into
+Somnium is a thrilling, immersive experience that blends elements of horror into
 the action/adventure of Enderal. The world of Vyn has been
 re-interpreted to a new age, one where the destructive power of black
 powder has shown the door to old methods of violence and warfare. One
