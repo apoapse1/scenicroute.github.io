@@ -71,8 +71,9 @@ to set it in a different place.
 Install the Steam Version of [Enderal Forgotten Stories (Special
 Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/)
 
-Make sure that the language is [set to
+*Make sure that the language is [set to
 English](https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2).
+![image](https://github.com/user-attachments/assets/7a7c0de0-26ee-4373-b6d5-ba043a2f1634)
 
 If Enderal was already installed prior to this, [verify its game
 files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).
@@ -90,19 +91,18 @@ that folder.
 
 ### 3. Preparing Wabbajack for the installation
 
-3.1. Once Wabbajack is opened, click on the gear icon at the top right
+**3.1.** Once Wabbajack is opened, click on the gear icon at the top right
 and login to your **Nexus Account**. **We absolutely recommend you have
 a premium subscription active for this account while you download
 Somnium.** Without a premium account, your download will take
 significantly longer.
 
-3.2. Create a folder named `WJDownloads` in the base of your HDD. For
-example, `D:\WJDownloads`. You can also create it on your SSD, if you
-aren\'t worried about the space it\'ll take up. And if you ever decide
-to try out other WJ lists, you can use this download folder for all of
+**3.2.** Create a folder named `WJDownloads` in the base of your HDD/SSD. For
+example, `D:\WJDownloads`. If you ever decide
+to try out other WJ lists, you can re-use this download folder for all of
 them.
 
-3.3. Create a folder named `Somnium` in the base of your SSD. For
+**3.3.** Create a folder named `Somnium` in the base of your SSD. For
 example, `E:\Somnium` or `C:\Games\Somnium`. **We absolutely recommend
 you install Somnium on your Solid State Drive. Otherwise, your
 performance will be much worse, and the load times will be significantly
@@ -110,57 +110,62 @@ higher.**
 
 ### 4. Finally Installing Somnium
 
-4.1. Download
+**4.1.** Download
 [Somnium.wabbajack](https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack)
 and run it. Set the `Download Location` to the same base folder of your
-drive that you created in step #3.2. Then set the
+drive that you created in step **#3.2**. Then set the
 `Installation Location` to the same folder of your drive that you
-created in step #3.3. Check \"Overwrite Installation\", and start the
+created in step **#3.3**. Check \"Overwrite Installation\", and start the
 installation. This will take a while, so let it run.
 
 If Wabbajack threw an error while installing Somnium, we will be able to
 fix the issue in our [Discord
 Community](https://discord.com/invite/nAQWr4VmG6).
 
-4.2. When Wabbajack finishes successfully, navigate to the Somnium
+**4.2.** When Wabbajack finishes successfully, navigate to the Somnium
 installation folder. Inside, you should see a file named
-`Somnium Launcher.exe`. Run it and a new window will pop up. Select
-`Install Somnium`, click Accept and allow the launcher to finish the
-final steps of Somnium installation. **IMPORTANT**. During the final
-installation process, a fullscreen window will appear asking you to
-choose the appropriate in-game brightness by following a specific set of
-instructions. **DO NOT** skip this step or back out of it, it is
-essential for the optimum Somnium experience.
+`Somnium.exe` or `Somnium Launcher.exe`, depending on your installed version of Somnium. 
+Run it and a new window will pop up. Select `Install Somnium`, click Accept 
+and allow the launcher to finish the final steps of Somnium installation. 
 
-4.3. Once this process has completed, paths to `Gameplay Options` and
+**IMPORTANT**. During the final installation process, a fullscreen window 
+will appear asking you to choose the appropriate in-game brightness by 
+following a specific set of instructions. **DO NOT** skip this step or back 
+out of it, it is essential for the optimum Somnium experience.
+
+**4.3.** Once this process has completed, paths to `Gameplay Options` and
 `Graphics Options` will appear that will allow you to further customize
 aspects of your gameplay experience.
 
-> 4.3.1. Most fields in `Graphics Options` will be either auto-completed
+> **4.3.1.** Most fields in `Graphics Options` will be either auto-completed
 > based on your computer setup or will be set to defaults. Notably,
-> ensure that the set resolution matches your monitor resolution. Here
-> you can also change various options including overall ENB quality and
-> view distance, of which lower options are very useful for players with
+> ensure that the set **resolution** matches your monitor **resolution**. Here
+> you can also change various options including overall **ENB** quality and
+> **view distance**, of which lower options are very useful for players with
 > less powerful setups.
 >
-> 4.3.2. `Gameplay Options` allows players to customize specific areas
-> of the game, including allowing for the introduction to be skipped
-> partly or completely, voice audio files all in German (there is very
-> high quality German voice acting in Enderal), an item selection system
+> **4.3.2.** `Gameplay Options` allows players to customize specific areas
+> of the game, including allowing for the **introduction to be skipped**
+> partly or completely, **voice audio files all in German** (there is very
+> high quality **German voice acting** in Enderal), an item selection system
 > based on vanilla Enderal and other options.
 
-4.4. After you have chosen and applied your preferred options you will
-be returned back to the main menu, where you can click `Launch Somnium`
+**4.4.** After you have chosen and applied your preferred options you will
+be returned back to the main menu, where you can click `Launch`
 and start playing. Please enjoy your time in Vyn!
 
 ## Updating {#Updating}
 
 If Somnium receives an update, please check the Changelog before doing
 anything. Any time the Changelog recieves an update, you will be able to
-see whether the latest update is save-compatible. If it is not, you
-don\'t have to do anything prior to updating. If it is, back up the
-`Somnium\files\profiles\Somnium\saves` folder by placing it outside of
-the Somnium folder. For example, you can keep it in `D:\SomniumSaves`.
+see whether the latest update is save-compatible. 
+
+**If not**, you
+don\'t have to do anything prior to updating. 
+
+**If it is**, back up the `Somnium\files\profiles\Somnium\saves` folder by 
+placing it outside of the Somnium folder. For example, you can keep it 
+in `D:\SomniumSaves`.
 
 **Wabbajack will delete all files that are not part of the updated
 modlist when updating! That includes the base Somnium folder.**
@@ -176,8 +181,8 @@ done, complete installation via the launcher as described above. If the
 update was save-compatible, copy your saves folder back to
 `Somnium\files\profiles\Somnium\saves`.
 
-Note that some in-game settings and your game configuration in the
-launcher will get reset when updating. Make sure to check that!
+*Note that some in-game settings and your **game configuration** in the
+launcher will get **reset** when updating. Make sure to check that!
 
 ### Problems with Wabbajack
 
