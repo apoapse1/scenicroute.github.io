@@ -11,13 +11,7 @@ as fast and painless as possible.
 ## Pre-Installation
 
 There are a few things you will need to make sure to have before you can
-download and play Somnium. First and foremost, you will need at least
-**190GB** of free space for the Somnium installation on your Solid State
-Drive (SSD), and at least **64GB** for the Somnium downloads and
-**20GB** for Enderal SE. You can either store the latter two on the same
-SSD or on another \"Hard Disk Drive\" (HDD) but ensure that Somnium
-itself is installed on an SSD. To see which of your drives are SSD\'s
-and which are HDD\'s, press Win+R and type `dfrgui`.
+download and play Somnium. 
 
 You can delete the contents of the `downloads` and Enderal SE folders
 after Somnium is fully installed, however you will need to redownload
@@ -45,15 +39,26 @@ inquire about details if your game is struggling.
 Somnium also natively suppports most resolution aspect ratios, such as
 16:10, widescreen (21:9) or ultra-widescreen (32:9).
 
-### Installing Microsoft Visual C++
+## Space Requirements
 
-You can download this from
+To see which of your drives are SSD\'s
+and which are HDD\'s, press Win+R and type `dfrgui`.
+
+ - **> 190 GB** space for the modlist installation (**SSD**)
+ - **> 64 GB** space for Somnium downloads (**SSD/HDD**)
+ - **> 20 GB** space for Enderal SE from Steam (**SSD/HDD**)
+ - **> ~274 GB** space total
+
+## Software Requirements
+You need Microsoft Visual C++ from
 [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-### Installing Newest .NET Framework
-
-You can grab this package from
+You need .NET Framework 4.8 from 
 [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
+
+**You need to disable any antivirus or any external potential process-blocking applications like 
+Bitdefender, Avast, Malwarebytes, etc. We cannot support fixing any issues potentially created by you or 
+unknown external applications.**
 
 ## Full-Installation
 
@@ -228,10 +233,14 @@ folder where you installed Wabbajack.
     `%APPDATA%/Local/Wabbajack` and re-open the app and try again. If
     this does not resolve the problem, it could be related to drive
     corruption, and you should run CHKDSK on the drive in question.
+-   **Missing Files** This is for **non-premium** users only, where the 
+    mod author has hidden the mod so it's unretrievable. The only solutions
+    are to have a premium NexusMods account, or for the authors to
+    replace the mod and recompile a new Wabbajack.
 
 ### Personalizing the Game
 
-**There is no MCM customization necessary for Somnium**. The MCM options
+**There is light MCM customization necessary for Somnium**. The MCM options
 for all mods are set automatically to Somnium\'s standard.
 
 If you are interested in adding/removing some mods from Somnium, feel
