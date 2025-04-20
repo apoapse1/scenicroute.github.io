@@ -40,7 +40,6 @@ accepting ambrosia\'s kiss. He slumps to the floor. His blood flees
 through scattered cuts as he becomes whole again.*
 
 <div align="center"> This is Somnium </div>
-<br/>
 
 If you\'re reading this, then there\'s a good chance that you\'ve played
 or heard of our other project, Librum. While that project focuses on a
