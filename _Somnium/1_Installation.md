@@ -56,6 +56,9 @@ You need Microsoft Visual C++ from
 You need .NET Framework 4.8 from 
 [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 
+You need .NET 6.0 Desktop Runtime from 
+[here](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.14-windows-x64-installer).
+
 **You need to disable any antivirus or any external potential process-blocking applications like 
 Bitdefender, Avast, Malwarebytes, etc. We cannot support fixing any issues potentially created by you or 
 unknown external applications.**
