@@ -18,7 +18,7 @@ Link](https://www.patreon.com/scenicroutegames?fan_landing=true)
 
 ## Preamble
 
-![Banner](https://cdn.discordapp.com/attachments/879129485809713163/889302559657967616/Start_Screen.png?ex=680635cc&is=6804e44c&hm=8bfb551bfdb11c21c2281b44a0d3832a95172e74e258b45c1a9878c70bd5b78b&)
+![Banner](/assets/somnium/Start_Screen.png)
 
 <div align="center"><b>With big thanks to the Somnium design team at Scenic Route Games. And a special thanks and acknowledgement to: Ixion XVII for all of his Enderal Gameplay Overhaul (EGO) mods and helpful advice, JDsmith for Enderal - My Way and providing us with the bones of Somnium. </b></div>
 <br/>
