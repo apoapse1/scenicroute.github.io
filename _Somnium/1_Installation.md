@@ -131,10 +131,11 @@ fix the issue in our [Discord
 Community](https://discord.com/invite/nAQWr4VmG6).
 
 **4.2.** When Wabbajack finishes successfully, navigate to the Somnium
-installation folder. Inside, you should see a file named
-`Somnium.exe` or `Somnium Launcher.exe`, depending on your installed version of Somnium. 
-Run it and a new window will pop up. Select `Install Somnium`, click Accept 
-and allow the launcher to finish the final steps of Somnium installation. 
+installation folder. **DELETE Credits.txt IF YOU HAVEN'T RAN THE LAUNCHER YET**
+Inside, you should see a file named `Somnium.exe` or `Somnium Launcher.exe`, 
+depending on your installed version of Somnium. Run it and a new window will pop up. 
+Select `Install Somnium`, click Accept and allow the launcher to finish 
+the final steps of Somnium installation. 
 
 **IMPORTANT**. During the final installation process, a fullscreen window 
 will appear asking you to choose the appropriate in-game brightness by 
