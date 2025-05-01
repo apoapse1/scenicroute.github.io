@@ -141,7 +141,13 @@ will appear asking you to choose the appropriate in-game brightness by
 following a specific set of instructions. **DO NOT** skip this step or back 
 out of it, it is essential for the optimum Somnium experience.
 
-*If the launcher UI is completely unusable, refer to [Manual Workarounds](#Manual)
+**IMPORTANT**. If the above popup did not happen and the launcher gives you three options
+for Settings, Launch, or Quit, navigate to Settings and make sure to
+1. RESOLUTION AT THE TOP IS CORRECT
+2. Calibrate Brightness at the bottom
+3. Apply
+
+*If the launcher UI is completely broken (unlikely), refer to [Manual Workarounds](#Manual)
 
 **4.3.** Once this process has completed, paths to `Gameplay Options` and
 `Graphics Options` will appear that will allow you to further customize
