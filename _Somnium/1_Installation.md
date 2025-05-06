@@ -22,9 +22,6 @@ the first time. If you are updating Somnium, jump straight to [Updating](#Updati
 
 <details>
 <summary>Minimum PC Specs</summary>
-
-### Minimum PC Specs
-
 Somnium is not particularly performance-heavy, and can run on relatively
 low-end PC specs. One of our devs has a GTX1660 GPU and a i5-9400F CPU,
 and can run Somnium at 1440p with the Medium ENB preset on 30-40 FPS in
@@ -40,6 +37,8 @@ Somnium also natively suppports most resolution aspect ratios, such as
 <details>
 <summary>Space Requirements</summary>
 
+<br>
+
 ## Space Requirements
 
 To see which of your drives are SSD\'s
@@ -49,10 +48,10 @@ You can delete the contents of the Somnium download and Enderal SE folders
 after Somnium is fully installed, however you will need to redownload
 all the mods and Enderal when you wish to update the list.
 
- - **> 190 GB** space for the modlist installation (**SSD**)
- - **> 64 GB** space for Somnium downloads (**SSD/HDD**)
- - **> 20 GB** space for Enderal SE from Steam (**SSD/HDD**)
- - **> ~274 GB** space total
+- **> 190 GB** space for the modlist installation (**SSD**)
+- **> 64 GB** space for Somnium downloads (**SSD/HDD**)
+- **> 20 GB** space for Enderal SE from Steam (**SSD/HDD**)
+- **> ~274 GB** space total
 
 </details>
 
