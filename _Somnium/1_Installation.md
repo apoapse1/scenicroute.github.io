@@ -22,37 +22,44 @@ the first time. If you are updating Somnium, jump straight to [Updating](#Updati
 
 <details>
 <summary>Minimum PC Specs</summary>
-Somnium is not particularly performance-heavy, and can run on relatively
-low-end PC specs. One of our devs has a GTX1660 GPU and a i5-9400F CPU,
-and can run Somnium at 1440p with the Medium ENB preset on 30-40 FPS in
-the exterior. Lowering the resolution to 1080p and choosing the Low ENB
-preset will improve your performance by a lot. There are other methods
-available to improve performance as well, please join our discord to
-inquire about details if your game is struggling.
+<p>
+<h3>Minimum PC Specs</h3>
 
-Somnium also natively suppports most resolution aspect ratios, such as
-16:10, widescreen (21:9) or ultra-widescreen (32:9).
+Somnium is not particularly performance-heavy, and can run on relatively  
+low-end PC specs. One of our devs has a GTX1660 GPU and an i5-9400F CPU,  
+and can run Somnium at 1440p with the Medium ENB preset at 30–40 FPS in  
+exteriors. Lowering the resolution to 1080p and choosing the Low ENB  
+preset will improve your performance by a lot.
+
+There are other methods available to improve performance as well—please  
+join our Discord to inquire about details if your game is struggling.
+
+Somnium also natively supports most resolution aspect ratios, such as  
+16:10, widescreen (21:9), or ultra-widescreen (32:9).
+
+</p>
 </details>
 
 <details>
 <summary>Space Requirements</summary>
+<p>
+<h3>Space Requirements</h3>
 
-<br>
+To see which of your drives are SSDs and which are HDDs, press Win+R  
+and type <code>dfrgui</code>.
 
-## Space Requirements
-
-To see which of your drives are SSD\'s
-and which are HDD\'s, press Win+R and type `dfrgui`.
-
-You can delete the contents of the Somnium download and Enderal SE folders
-after Somnium is fully installed, however you will need to redownload
+You can delete the contents of the Somnium download and Enderal SE folders  
+after Somnium is fully installed. However, you will need to redownload  
 all the mods and Enderal when you wish to update the list.
 
-- **> 190 GB** space for the modlist installation (**SSD**)
-- **> 64 GB** space for Somnium downloads (**SSD/HDD**)
-- **> 20 GB** space for Enderal SE from Steam (**SSD/HDD**)
-- **> ~274 GB** space total
+<ul>
+  <li><strong>> 190 GB</strong> space for the modlist installation (<strong>SSD</strong>)</li>
+  <li><strong>> 64 GB</strong> space for Somnium downloads (<strong>SSD/HDD</strong>)</li>
+  <li><strong>> 20 GB</strong> space for Enderal SE from Steam (<strong>SSD/HDD</strong>)</li>
+  <li><strong>> ~274 GB</strong> space total</li>
+</ul>
 
+</p>
 </details>
 
 ## Software Requirements
