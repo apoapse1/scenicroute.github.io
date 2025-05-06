@@ -18,9 +18,10 @@ our [Discord Community](https://discord.com/invite/nAQWr4VmG6), where we
 will be able to diagnose and help you with your problems.
 
 *The following steps are only needed if you are installing Somnium for
-the first time. If you are updating Somnium, jump straight to:*
+the first time. If you are updating Somnium, jump straight to [Updating](#Updating).
 
-[Updating](#Updating)
+<details>
+<summary>Minimum PC Specs</summary>
 
 ### Minimum PC Specs
 
@@ -34,6 +35,10 @@ inquire about details if your game is struggling.
 
 Somnium also natively suppports most resolution aspect ratios, such as
 16:10, widescreen (21:9) or ultra-widescreen (32:9).
+</details>
+
+<details>
+<summary>Space Requirements</summary>
 
 ## Space Requirements
 
@@ -49,14 +54,16 @@ all the mods and Enderal when you wish to update the list.
  - **> 20 GB** space for Enderal SE from Steam (**SSD/HDD**)
  - **> ~274 GB** space total
 
+</details>
+
 ## Software Requirements
-You need Microsoft Visual C++ from
+You need to install Microsoft Visual C++ from
 [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-You need .NET Framework 4.8 from 
+You need to install .NET Framework 4.8 from 
 [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 
-You need .NET 6.0 Desktop Runtime from 
+You need to install .NET 6.0 Desktop Runtime from 
 [here](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.14-windows-x64-installer).
 
 **You need to disable any antivirus or any external potential process-blocking applications like 
@@ -118,9 +125,14 @@ higher.**
 
 ### 4. Finally Installing Somnium
 
-**4.1.** Download
-[Somnium.wabbajack](https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack)
-and run it. Set the `Download Location` to the same base folder of your
+**4.1.** **Do NOT download the Somnium.Wabbajack file through the Wabbajack client.**
+Instead, download [Somnium.wabbajack](https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack) from our GitHub.
+
+To manually install it, open Wabbajack, go to Browse lists, 
+and in the top right you'll see Install from disk, click it and select your downloaded Somnium.wabbajack:
+![ManualInstall](/assets/somnium/manual_install.png)
+
+Set the `Download Location` to the same base folder of your
 drive that you created in step **#3.2**. Then set the
 `Installation Location` to the same folder of your drive that you
 created in step **#3.3**. Check \"Overwrite Installation\", and start the
@@ -131,17 +143,27 @@ fix the issue in our [Discord
 Community](https://discord.com/invite/nAQWr4VmG6).
 
 **4.2.** When Wabbajack finishes successfully, navigate to the Somnium
-installation folder. Inside, you should see a file named
-`Somnium.exe` or `Somnium Launcher.exe`, depending on your installed version of Somnium. 
-Run it and a new window will pop up. Select `Install Somnium`, click Accept 
-and allow the launcher to finish the final steps of Somnium installation. 
+installation folder. 
+
+**DELETE Credits.txt IF IT EXISTS ALREADY**
+
+Inside, you should see a file named `Somnium.exe` or `Somnium Launcher.exe`, 
+depending on your installed version of Somnium. Run it and a new window will pop up. 
+Select `Install Somnium`, click Accept and allow the launcher to finish 
+the final steps of Somnium installation. 
 
 **IMPORTANT**. During the final installation process, a fullscreen window 
 will appear asking you to choose the appropriate in-game brightness by 
 following a specific set of instructions. **DO NOT** skip this step or back 
 out of it, it is essential for the optimum Somnium experience.
 
-*If the launcher UI is completely unusable, refer to [Manual Workarounds](#Manual)
+**IMPORTANT**. If the above popup did not happen and the launcher gives you three options
+for Settings, Launch, or Quit, navigate to Settings and make sure to
+1. RESOLUTION AT THE TOP IS CORRECT
+2. Calibrate Brightness at the bottom
+3. Apply
+
+*If the launcher UI is completely broken (unlikely), refer to [Manual Workarounds](#Manual)
 
 **4.3.** Once this process has completed, paths to `Gameplay Options` and
 `Graphics Options` will appear that will allow you to further customize
@@ -194,7 +216,7 @@ update was save-compatible, copy your saves folder back to
 *Note that some in-game settings and your **game configuration** in the
 launcher will get **reset** when updating. Make sure to check that!
 
-### Problems with Wabbajack
+### Debugging Wabbajack/FAQ
 
 There are a lot of different scenarios where Wabbajack will produce an
 error. I recommend re-trying Wabbajack at least once before posting
